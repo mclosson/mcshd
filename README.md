@@ -10,3 +10,9 @@ TODO:
 * An identification mechanism needs to be built into the communication protocol to identifier the responder.
 * Add support for encrypted communications on top of the plain text multicast traffic
 * Add support for steganographic communication, hiding the commands in an audio stream or something
+
+Usage:
+
+$ ./mcshd 225.31.33.7 5000
+$ ./client
+mc#: <command>

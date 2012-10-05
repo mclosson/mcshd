@@ -13,6 +13,8 @@ TODO:
 
 Usage:
 
- $ ./mcshd 225.31.33.7 5000
- $ ./client
- mc#: <command>
+<pre>
+$ ./mcshd 225.31.33.7 5000
+$ ./client
+mc#: <command>
+</pre>
